@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    color: black;
+    font-size: 40px;
+
+}
+
+.SI_lake{
+    width: 30%;
+}
+
+p{
+    border: 5px solid red;
+    text-align: center;
+    height: 70%;
+    width: 100%;
+}
+
+.fourth_column{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Si_inside:hover{
+    width: 75%;
+}

@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    color: black;
+    font-size: 40px;
+
+}
+
+.Si_inside{
+    width: 55%;
+}
+
+p{
+    border: 5px solid red;
+    text-align: center;
+    height: 70%;
+    width: 100%;
+}
+
+.third_column{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Si_inside:hover{
+    width: 75%;
+}
